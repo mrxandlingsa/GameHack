@@ -1,0 +1,1650 @@
+{
+  "Aimbot": [
+    {
+      "Enabled": true,
+      "Fov": 4.29,
+      "Smooth": 30.79
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Enabled": true,
+      "Fov": 2.0,
+      "Silent": true
+    },
+    {
+      "Enabled": true,
+      "Fov": 2.0,
+      "Silent": true
+    },
+    {
+      "Enabled": true,
+      "Fov": 2.0,
+      "Silent": true
+    },
+    {
+      "Enabled": true,
+      "Fov": 2.0,
+      "Silent": true
+    },
+    {
+      "Enabled": true,
+      "Fov": 2.5,
+      "Smooth": 2.75
+    },
+    {
+      "Enabled": true,
+      "Fov": 2.5,
+      "Smooth": 2.75
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Enabled": true,
+      "Fov": 2.5,
+      "Smooth": 2.75
+    },
+    {
+      "Enabled": true,
+      "Fov": 2.5,
+      "Smooth": 2.75
+    },
+    {
+      "Enabled": true,
+      "Fov": 2.5,
+      "Smooth": 2.75
+    },
+    {
+      "Enabled": true,
+      "Fov": 2.5,
+      "Smooth": 2.75
+    },
+    {
+      "Enabled": true,
+      "Fov": 2.5,
+      "Smooth": 2.75
+    },
+    {
+      "Enabled": true,
+      "Fov": 2.0,
+      "Silent": true
+    },
+    {
+      "Enabled": true,
+      "Fov": 2.5,
+      "Smooth": 2.75
+    },
+    {
+      "Enabled": true,
+      "Fov": 2.5,
+      "Smooth": 2.75
+    },
+    {
+      "Enabled": true,
+      "Fov": 2.0,
+      "Silent": true
+    },
+    {
+      "Enabled": true,
+      "Fov": 1.75,
+      "Silent": true
+    },
+    {
+      "Enabled": true,
+      "Fov": 1.75,
+      "Silent": true
+    },
+    {
+      "Enabled": true,
+      "Fov": 2.0,
+      "Silent": true
+    },
+    {},
+    {
+      "Enabled": true,
+      "Fov": 3.75,
+      "Smooth": 1.88
+    },
+    {},
+    {}
+  ],
+  "Aimbot Key": "MOUSE1",
+  "Aimbot Key mode": 0,
+  "Aimbot On key": false,
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {
+          "Alpha": 1.0,
+          "Blinking": true,
+          "Color": "#00ff00",
+          "Cover": true,
+          "Enabled": true,
+          "Health based": true,
+          "Material": 11,
+          "Wireframe": true
+        },
+        {
+          "Alpha": 1.0,
+          "Color": "#ff0000",
+          "Enabled": true,
+          "Ignore-Z": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Toggle Key": "MOUSE4",
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ESP": {
+    "Enemies": {
+      "All": {
+        "Box": {
+          "Enabled": true
+        },
+        "Enabled": true,
+        "Health Bar": {
+          "Enabled": true,
+          "Type": 2
+        },
+        "Name": {
+          "Enabled": true
+        },
+        "Weapon": {
+          "Enabled": true
+        }
+      },
+      "全部状态": {
+        "Text Cull Distance": 20.0
+      }
+    }
+  },
+  "Inventory Changer": {
+    "Items": [
+      {
+        "Issue Date Timestamp": 1448873143,
+        "Item Name": "2015 年服役勋章",
+        "Weapon ID": 1332
+      },
+      {
+        "Issue Date Timestamp": 1455340613,
+        "Item Name": "2016 年服役勋章",
+        "Weapon ID": 1344
+      },
+      {
+        "Issue Date Timestamp": 1545898105,
+        "Item Name": "2018 年服役勋章",
+        "Weapon ID": 1372
+      },
+      {
+        "Issue Date Timestamp": 1548053761,
+        "Item Name": "2019 年服役勋章",
+        "Weapon ID": 1381
+      },
+      {
+        "Issue Date Timestamp": 1585814777,
+        "Item Name": "2020 年服役勋章",
+        "Weapon ID": 4679
+      },
+      {
+        "Issue Date Timestamp": 1621511354,
+        "Item Name": "2021 年服役勋章",
+        "Weapon ID": 4742
+      },
+      {
+        "Issue Date Timestamp": 1649248542,
+        "Item Name": "2022 年服役勋章",
+        "Weapon ID": 4824
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 15,
+        "Item Name": "AK-47",
+        "Paint Kit": 921,
+        "Paint Kit Name": "黄金藤蔓",
+        "Seed": 143,
+        "Weapon ID": 7,
+        "Wear": 0.0015175472
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 18,
+        "Item Name": "AWP",
+        "Paint Kit": 819,
+        "Paint Kit Name": "九头金蛇",
+        "Seed": 828,
+        "Weapon ID": 9,
+        "Wear": 0.024136232
+      },
+      {
+        "Item Name": "CS:GO订阅服务",
+        "Weapon ID": 4748
+      },
+      {
+        "Item Name": "CZ75",
+        "Paint Kit": 270,
+        "Paint Kit Name": "维多利亚",
+        "Seed": 334,
+        "Weapon ID": 63,
+        "Wear": 0.02558006
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 5,
+        "Item Name": "FN57",
+        "Paint Kit": 660,
+        "Paint Kit Name": "暴怒野兽",
+        "Seed": 532,
+        "Weapon ID": 3,
+        "Wear": 0.04688911
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 19,
+        "Item Name": "G3SG1",
+        "Paint Kit": 438,
+        "Paint Kit Name": "柯罗诺斯",
+        "Seed": 36,
+        "Weapon ID": 11,
+        "Wear": 0.022792174
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 23,
+        "Item Name": "M249",
+        "Paint Kit": 1042,
+        "Paint Kit Name": "O.S.I.P.R.",
+        "Seed": 435,
+        "Weapon ID": 14,
+        "Wear": 0.014319665
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 15,
+        "Item Name": "M4A1 消音型",
+        "Paint Kit": 984,
+        "Paint Kit Name": "印花集",
+        "Seed": 277,
+        "Weapon ID": 60,
+        "Wear": 0.042357534
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 309,
+        "Paint Kit Name": "咆哮",
+        "Seed": 928,
+        "Weapon ID": 16,
+        "Wear": 0.0035643098
+      },
+      {
+        "Item Name": "M9 刺刀",
+        "Paint Kit": 562,
+        "Paint Kit Name": "传说",
+        "Seed": 521,
+        "Weapon ID": 508,
+        "Wear": 0.009205568
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 8,
+        "Item Name": "MAC-10",
+        "Paint Kit": 898,
+        "Paint Kit Name": "潜行者",
+        "Seed": 859,
+        "Weapon ID": 17,
+        "Wear": 0.00089947996
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 22,
+        "Item Name": "MAG-7",
+        "Paint Kit": 737,
+        "Paint Kit Name": "五指短剑",
+        "Seed": 629,
+        "Weapon ID": 27,
+        "Wear": 0.011237673
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 9,
+        "Item Name": "MP5-SD",
+        "Paint Kit": 923,
+        "Paint Kit Name": "幻化绿洲",
+        "Seed": 582,
+        "Weapon ID": 23,
+        "Wear": 0.015157171
+      },
+      {
+        "Item Name": "MP7",
+        "Paint Kit": 481,
+        "Paint Kit Name": "复仇者",
+        "Seed": 975,
+        "Weapon ID": 33,
+        "Wear": 0.013535727
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 8,
+        "Item Name": "MP9",
+        "Paint Kit": 1134,
+        "Paint Kit Name": "星使",
+        "Seed": 883,
+        "Weapon ID": 34,
+        "Wear": 0.00976961
+      },
+      {
+        "Item Name": "P2000",
+        "Paint Kit": 389,
+        "Paint Kit Name": "火灵",
+        "Seed": 36,
+        "Weapon ID": 32,
+        "Wear": 0.041906495
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 4,
+        "Item Name": "P250",
+        "Paint Kit": 678,
+        "Paint Kit Name": "生化短吻鳄",
+        "Seed": 104,
+        "Weapon ID": 36,
+        "Wear": 0.03888046
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 11,
+        "Item Name": "P90",
+        "Paint Kit": 156,
+        "Paint Kit Name": "喵之萌杀",
+        "Seed": 390,
+        "Weapon ID": 19,
+        "Wear": 0.09663629
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 12,
+        "Item Name": "PP-野牛",
+        "Paint Kit": 542,
+        "Paint Kit Name": "阿努比斯之审判",
+        "Seed": 692,
+        "Weapon ID": 26,
+        "Wear": 0.0024285242
+      },
+      {
+        "Item Name": "R8 左轮手枪",
+        "Paint Kit": 522,
+        "Paint Kit Name": "渐变之色",
+        "Seed": 356,
+        "Weapon ID": 64,
+        "Wear": 0.0020787856
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 19,
+        "Item Name": "SCAR-20",
+        "Paint Kit": 391,
+        "Paint Kit Name": "心脏打击",
+        "Seed": 292,
+        "Weapon ID": 38,
+        "Wear": 0.049330343
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 17,
+        "Item Name": "SG 553",
+        "Paint Kit": 1084,
+        "Paint Kit Name": "玩命职场",
+        "Seed": 932,
+        "Weapon ID": 39,
+        "Wear": 0.0021911722
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 16,
+        "Item Name": "SSG 08",
+        "Paint Kit": 624,
+        "Paint Kit Name": "炎龙之焰",
+        "Seed": 699,
+        "Weapon ID": 40,
+        "Wear": 0.016221358
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 5,
+        "Item Name": "Tec-9",
+        "Paint Kit": 889,
+        "Paint Kit Name": "屠杀者",
+        "Seed": 500,
+        "Weapon ID": 30,
+        "Wear": 0.021826895
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 10,
+        "Item Name": "UMP-45",
+        "Paint Kit": 802,
+        "Paint Kit Name": "动量",
+        "Seed": 307,
+        "Weapon ID": 24,
+        "Wear": 0.01143012
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 2,
+        "Item Name": "USP 消音版",
+        "Paint Kit": 504,
+        "Paint Kit Name": "枪响人亡",
+        "Seed": 7,
+        "Weapon ID": 61,
+        "Wear": 0.065875426
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 21,
+        "Item Name": "XM1014",
+        "Paint Kit": 970,
+        "Paint Kit Name": "埋葬之影",
+        "Seed": 85,
+        "Weapon ID": 25,
+        "Wear": 0.01602436
+      },
+      {
+        "Item Name": "“九头蛇大行动”钻石币",
+        "Weapon ID": 4356
+      },
+      {
+        "Issue Date Timestamp": 1502842299,
+        "Item Name": "2017 年服役勋章",
+        "Weapon ID": 1362
+      },
+      {
+        "Item Name": "“激流大行动”钻石币",
+        "Weapon ID": 4762
+      },
+      {
+        "Item Name": "“狂牙大行动”钻石币",
+        "Weapon ID": 4703
+      },
+      {
+        "Item Name": "“裂网大行动”钻石币",
+        "Weapon ID": 4553
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 24,
+        "Item Name": "内格夫",
+        "Paint Kit": 763,
+        "Paint Kit Name": "雷神之锤",
+        "Seed": 729,
+        "Weapon ID": 28,
+        "Wear": 0.027553258
+      },
+      {
+        "Item Name": "刺刀",
+        "Paint Kit": 558,
+        "Paint Kit Name": "传说",
+        "Seed": 891,
+        "Weapon ID": 500,
+        "Wear": 0.033545032
+      },
+      {
+        "Item Name": "刺刀",
+        "Paint Kit": 38,
+        "Paint Kit Name": "渐变之色",
+        "Seed": 834,
+        "Weapon ID": 500,
+        "Wear": 0.004463899
+      },
+      {
+        "Item Name": "刺刀",
+        "Paint Kit": 573,
+        "Paint Kit Name": "自动化",
+        "Seed": 194,
+        "Weapon ID": 500,
+        "Wear": 0.03856415
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 14,
+        "Item Name": "加利尔 AR",
+        "Paint Kit": 398,
+        "Paint Kit Name": "喧闹骷髅",
+        "Seed": 210,
+        "Weapon ID": 13,
+        "Wear": 0.361872
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 38,
+        "Item Name": "化学防害上尉| 法国宪兵特勤队",
+        "Weapon ID": 4750
+      },
+      {
+        "Item Name": "卡托维兹 2019 钻石硬币",
+        "Weapon ID": 4558
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 3,
+        "Item Name": "双持贝瑞塔",
+        "Paint Kit": 658,
+        "Paint Kit Name": "毒蛇袭击",
+        "Seed": 994,
+        "Weapon ID": 2,
+        "Wear": 0.023803849
+      },
+      {
+        "Equipped": [
+          "NOTEAM"
+        ],
+        "Equipped Slot": 55,
+        "Item Name": "咆哮胸章",
+        "Weapon ID": 6032
+      },
+      {
+        "Item Name": "幻彩胸章",
+        "Weapon ID": 6022
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 22,
+        "Item Name": "截短霰弹枪",
+        "Paint Kit": 256,
+        "Paint Kit Name": "北海巨妖",
+        "Seed": 767,
+        "Weapon ID": 29,
+        "Wear": 0.0068183662
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 20,
+        "Item Name": "新星",
+        "Paint Kit": 62,
+        "Paint Kit Name": "樱花之绚烂",
+        "Seed": 140,
+        "Weapon ID": 35,
+        "Wear": 0.09155664
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 2,
+        "Item Name": "格洛克 18 型",
+        "Paint Kit": 957,
+        "Paint Kit Name": "子弹皇后",
+        "Seed": 986,
+        "Weapon ID": 4,
+        "Wear": 0.067660004
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 38,
+        "Item Name": "残酷的达里尔爵士（迈阿密）| 专业人士",
+        "Weapon ID": 4726
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 6,
+        "Item Name": "沙漠之鹰",
+        "Paint Kit": 962,
+        "Paint Kit Name": "印花集",
+        "Seed": 719,
+        "Weapon ID": 1,
+        "Wear": 0.010479519
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 14,
+        "Item Name": "法玛斯",
+        "Paint Kit": 919,
+        "Paint Kit Name": "纪念碑",
+        "Seed": 517,
+        "Weapon ID": 10,
+        "Wear": 0.0013802765
+      },
+      {
+        "Item Name": "炙热沙城 II 胸章",
+        "Weapon ID": 6001
+      },
+      {
+        "Item Name": "爪子刀",
+        "Paint Kit": 561,
+        "Paint Kit Name": "传说",
+        "Seed": 987,
+        "Weapon ID": 507,
+        "Wear": 0.028982896
+      },
+      {
+        "Item Name": "爪子刀",
+        "Paint Kit": 568,
+        "Paint Kit Name": "伽玛多普勒",
+        "Seed": 595,
+        "Weapon ID": 507,
+        "Wear": 0.0042943526
+      },
+      {
+        "Item Name": "爪子刀",
+        "Paint Kit": 415,
+        "Paint Kit Name": "多普勒",
+        "Seed": 828,
+        "Weapon ID": 507,
+        "Wear": 0.0014204074
+      },
+      {
+        "Item Name": "爪子刀",
+        "Paint Kit": 416,
+        "Paint Kit Name": "多普勒",
+        "Seed": 563,
+        "Weapon ID": 507,
+        "Wear": 0.0028972896
+      },
+      {
+        "Item Name": "爪子刀",
+        "Paint Kit": 38,
+        "Paint Kit Name": "渐变之色",
+        "Seed": 644,
+        "Weapon ID": 507,
+        "Wear": 0.00035746314
+      },
+      {
+        "Item Name": "爪子刀",
+        "Paint Kit": 576,
+        "Paint Kit Name": "自动化",
+        "Seed": 192,
+        "Weapon ID": 507,
+        "Wear": 0.035790764
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 41,
+        "Item Name": "狂牙手套",
+        "Paint Kit": 10086,
+        "Paint Kit Name": "黄色斑纹",
+        "Seed": 604,
+        "Weapon ID": 4725,
+        "Wear": 0.061671387
+      },
+      {
+        "Item Name": "精英守护者胸章",
+        "Weapon ID": 6102
+      },
+      {
+        "Item Name": "系绳匕首",
+        "Paint Kit": 38,
+        "Paint Kit Name": "渐变之色",
+        "Seed": 406,
+        "Weapon ID": 517,
+        "Wear": 0.0023444549
+      },
+      {
+        "Item Name": "蝴蝶刀",
+        "Paint Kit": 1105,
+        "Paint Kit Name": "传说",
+        "Seed": 427,
+        "Weapon ID": 515,
+        "Wear": 0.007655677
+      },
+      {
+        "Item Name": "蝴蝶刀",
+        "Paint Kit": 1115,
+        "Paint Kit Name": "自动化",
+        "Seed": 980,
+        "Weapon ID": 515,
+        "Wear": 0.023607107
+      },
+      {
+        "Item Name": "蝴蝶刀",
+        "Paint Kit": 415,
+        "Paint Kit Name": "多普勒",
+        "Seed": 51,
+        "Weapon ID": 515,
+        "Wear": 0.0050634113
+      },
+      {
+        "Item Name": "蝴蝶刀",
+        "Paint Kit": 619,
+        "Paint Kit Name": "多普勒",
+        "Seed": 498,
+        "Weapon ID": 515,
+        "Wear": 0.0014299741
+      },
+      {
+        "Item Name": "血猎手套",
+        "Paint Kit": 10006,
+        "Paint Kit Name": "焦炭",
+        "Seed": 938,
+        "Weapon ID": 5027,
+        "Wear": 0.08373215
+      },
+      {
+        "Item Name": "裹手",
+        "Paint Kit": 10054,
+        "Paint Kit Name": "套印",
+        "Seed": 384,
+        "Weapon ID": 5032,
+        "Wear": 0.10422499
+      },
+      {
+        "Item Name": "裹手",
+        "Paint Kit": 10084,
+        "Paint Kit Name": "警告！",
+        "Seed": 840,
+        "Weapon ID": 5032,
+        "Wear": 0.104825646
+      },
+      {
+        "Item Name": "裹手",
+        "Paint Kit": 10053,
+        "Paint Kit Name": "钴蓝骷髅",
+        "Seed": 891,
+        "Weapon ID": 5032,
+        "Wear": 0.06809054
+      },
+      {
+        "Item Name": "裹手",
+        "Paint Kit": 10055,
+        "Paint Kit Name": "防水布胶带",
+        "Seed": 852,
+        "Weapon ID": 5032,
+        "Wear": 0.072698504
+      },
+      {
+        "Item Name": "裹手",
+        "Paint Kit": 10009,
+        "Paint Kit Name": "皮革",
+        "Seed": 201,
+        "Weapon ID": 5032,
+        "Wear": 0.1085362
+      },
+      {
+        "Item Name": "裹手",
+        "Paint Kit": 10036,
+        "Paint Kit Name": "恶土",
+        "Seed": 243,
+        "Weapon ID": 5032,
+        "Wear": 0.110556975
+      },
+      {
+        "Item Name": "锯齿爪刀",
+        "Paint Kit": 415,
+        "Paint Kit Name": "多普勒",
+        "Seed": 868,
+        "Weapon ID": 523,
+        "Wear": 0.0013920745
+      },
+      {
+        "Item Name": "锯齿爪刀",
+        "Paint Kit": 416,
+        "Paint Kit Name": "多普勒",
+        "Seed": 436,
+        "Weapon ID": 523,
+        "Wear": 6.746339e-05
+      },
+      {
+        "Item Name": "锯齿爪刀",
+        "Paint Kit": 38,
+        "Paint Kit Name": "渐变之色",
+        "Seed": 875,
+        "Weapon ID": 523,
+        "Wear": 0.0035222583
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 0,
+        "Item Name": "锯齿爪刀",
+        "Paint Kit": 409,
+        "Paint Kit Name": "虎牙",
+        "Seed": 532,
+        "Weapon ID": 523,
+        "Wear": 0.004427665
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 50,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 54,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 43,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 9,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 24,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 29,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 60,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 32,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 33,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 55,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 17,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 23,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 45,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 3,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 16,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 51,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 31,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 44,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 8,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 7,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 56,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 34,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 27,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 57,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 21,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 19,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 58,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 30,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 14,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 13,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 49,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 26,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 12,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 25,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 35,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 52,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 28,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 4,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 18,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 36,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 5,
+        "Weapon ID": 1314
+      },
+      {
+        "Equipped": [
+          "NOTEAM"
+        ],
+        "Equipped Slot": 54,
+        "Item Name": "音乐盒",
+        "Music ID": 48,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 59,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 10,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 53,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 6,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 41,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 38,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 11,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 22,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 61,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 39,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 47,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 46,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 20,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 37,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 40,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 42,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "音乐盒",
+        "Music ID": 15,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "骷髅匕首",
+        "Paint Kit": 38,
+        "Paint Kit Name": "渐变之色",
+        "Seed": 589,
+        "Weapon ID": 525,
+        "Wear": 0.00027316753
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 17,
+        "Item Name": "AUG",
+        "Paint Kit": 845,
+        "Paint Kit Name": "动量",
+        "Seed": 209,
+        "Weapon ID": 8,
+        "Wear": 0.078671105
+      }
+    ],
+    "Version": 4
+  },
+  "Misc": {
+    "Auto accept": true,
+    "Auto pistol": true,
+    "Bomb timer": {
+      "Enabled": true
+    },
+    "Kill message string": "",
+    "Noscope crosshair": {
+      "Enabled": true
+    },
+    "Radar hack": true,
+    "Reveal money": true,
+    "Reveal ranks": true
+  },
+  "Sound": {
+    "Players": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "Style": {
+    "Colors": {
+      "Border": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "BorderShadow": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Button": [
+        0.26,
+        0.59,
+        0.98,
+        0.4
+      ],
+      "ButtonActive": [
+        0.06,
+        0.53,
+        0.98,
+        1.0
+      ],
+      "ButtonHovered": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "CheckMark": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "ChildBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "DragDropTarget": [
+        1.0,
+        1.0,
+        0.0,
+        0.9
+      ],
+      "FrameBg": [
+        0.16,
+        0.29,
+        0.48,
+        0.54
+      ],
+      "FrameBgActive": [
+        0.26,
+        0.59,
+        0.98,
+        0.67
+      ],
+      "FrameBgHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.4
+      ],
+      "Header": [
+        0.26,
+        0.59,
+        0.98,
+        0.31
+      ],
+      "HeaderActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "HeaderHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.8
+      ],
+      "MenuBarBg": [
+        0.14,
+        0.14,
+        0.14,
+        1.0
+      ],
+      "ModalWindowDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.35
+      ],
+      "NavHighlight": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "NavWindowingDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.2
+      ],
+      "NavWindowingHighlight": [
+        1.0,
+        1.0,
+        1.0,
+        0.7
+      ],
+      "PlotHistogram": [
+        0.9,
+        0.7,
+        0.0,
+        1.0
+      ],
+      "PlotHistogramHovered": [
+        1.0,
+        0.6,
+        0.0,
+        1.0
+      ],
+      "PlotLines": [
+        0.61,
+        0.61,
+        0.61,
+        1.0
+      ],
+      "PlotLinesHovered": [
+        1.0,
+        0.43,
+        0.35,
+        1.0
+      ],
+      "PopupBg": [
+        0.08,
+        0.08,
+        0.08,
+        0.94
+      ],
+      "ResizeGrip": [
+        0.26,
+        0.59,
+        0.98,
+        0.2
+      ],
+      "ResizeGripActive": [
+        0.26,
+        0.59,
+        0.98,
+        0.95
+      ],
+      "ResizeGripHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.67
+      ],
+      "ScrollbarBg": [
+        0.02,
+        0.02,
+        0.02,
+        0.53
+      ],
+      "ScrollbarGrab": [
+        0.31,
+        0.31,
+        0.31,
+        1.0
+      ],
+      "ScrollbarGrabActive": [
+        0.51,
+        0.51,
+        0.51,
+        1.0
+      ],
+      "ScrollbarGrabHovered": [
+        0.41,
+        0.41,
+        0.41,
+        1.0
+      ],
+      "Separator": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "SeparatorActive": [
+        0.1,
+        0.4,
+        0.75,
+        1.0
+      ],
+      "SeparatorHovered": [
+        0.1,
+        0.4,
+        0.75,
+        0.78
+      ],
+      "SliderGrab": [
+        0.24,
+        0.52,
+        0.88,
+        1.0
+      ],
+      "SliderGrabActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "Tab": [
+        0.17999999,
+        0.34999996,
+        0.58000004,
+        0.862
+      ],
+      "TabActive": [
+        0.19999999,
+        0.40999997,
+        0.68,
+        1.0
+      ],
+      "TabHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.8
+      ],
+      "TabUnfocused": [
+        0.068,
+        0.10199998,
+        0.14800003,
+        0.9724
+      ],
+      "TabUnfocusedActive": [
+        0.13599998,
+        0.26199996,
+        0.424,
+        1.0
+      ],
+      "TableBorderLight": [
+        0.23,
+        0.23,
+        0.25,
+        1.0
+      ],
+      "TableBorderStrong": [
+        0.31,
+        0.31,
+        0.35,
+        1.0
+      ],
+      "TableHeaderBg": [
+        0.19,
+        0.19,
+        0.2,
+        1.0
+      ],
+      "TableRowBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TableRowBgAlt": [
+        1.0,
+        1.0,
+        1.0,
+        0.06
+      ],
+      "Text": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "TextDisabled": [
+        0.5,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "TextSelectedBg": [
+        0.26,
+        0.59,
+        0.98,
+        0.35
+      ],
+      "TitleBg": [
+        0.04,
+        0.04,
+        0.04,
+        1.0
+      ],
+      "TitleBgActive": [
+        0.16,
+        0.29,
+        0.48,
+        1.0
+      ],
+      "TitleBgCollapsed": [
+        0.0,
+        0.0,
+        0.0,
+        0.51
+      ],
+      "WindowBg": [
+        0.06,
+        0.06,
+        0.06,
+        0.94
+      ]
+    }
+  },
+  "Triggerbot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Triggerbot Key": "MOUSE4",
+  "Visuals": {
+    "Viewmodel FOV": 10
+  }
+}
